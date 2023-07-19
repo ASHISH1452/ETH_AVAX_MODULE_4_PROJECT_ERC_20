@@ -1,6 +1,6 @@
 # ETH_AVAX_MODULE_4_PROJECT_ERC_20
 
-                                     Introduction
+                                     Introduction    
 
 The global blockchain landscape has seen remarkable growth in recent years, with Ethereum emerging as a leading platform for smart contracts and decentralized applications. Its versatility and vibrant developer community have led to the creation of numerous ERC-20 tokens, which power a wide array of projects and decentralized finance (DeFi) applications.
 
